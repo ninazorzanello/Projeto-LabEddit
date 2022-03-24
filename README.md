@@ -5,6 +5,8 @@ Esta aplicação foi desenvolvida em JavaScript, CSS, Styled-Components e React.
 
 O projeto tem como objetivo tornar o usuário capaz de efetuar um login, criar um cadastro bem como vizualizar os posts que pessoas realizarão e também os detalhes deste post. É possível também que o usuário crie um comentário.
 
+Link do surge: https://grandiose-agreement.surge.sh/
+
 Imagens do projeto:
 
 Página de Login:
